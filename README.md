@@ -1,7 +1,7 @@
 TableViewiOS8Bug
 ================
 
-An annoying bug with iOS8 when selecting something in a tableview.
+An issue with iOS8 when selecting something in a tableview causing the tableview will "jump". This does not happen in iOS7.
 
 A regular tableview for iOS8:
 
